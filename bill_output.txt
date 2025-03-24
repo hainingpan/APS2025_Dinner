@@ -1,0 +1,89 @@
+==================================================
+GRAND TOTAL: $302.55
+
+Tax (9.15%): $27.68
+Tip (18%): $54.46
+TOTAL WITH TAX AND TIP: $384.69 out of $970.32
+
+Payment breakdown:
+Yueqing Chang: $16.53 
+Yicheng Tang: $97.27 
+SHIVAM PATEL: $57.22 
+Jordan Huang: $0.00 not yet response
+Gavin Rockwood: $0.00 not yet response
+Abay Zhakenov: $0.00 not yet response
+Pradip Kattel: $0.00 not yet response
+Kevin Lucht: $55.63 
+Lisa Rivera: $0.00 not yet response
+KEMAL AZIZ: $38.14 
+Daniel Kaplan: $0.00 not yet response
+Angkun Wu: $41.32 
+Pavel Volkov: $0.00 not yet response
+Haining Pan: $37.25 
+Michael Terilli: $41.32 
+==================================================
+
+INDIVIDUAL ORDER DETAILS:
+==================================================
+
+Yueqing Chang:
+  1 x Apple of My Eye ($13.00 each) = $13.00
+  Subtotal: $13.00
+  + Tax: $1.19
+  + Tip: $2.34
+  TOTAL: $16.53
+
+Yicheng Tang:
+  1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
+  2 x AROMATIZED & SMOKED ($22.00 each) = $44.00
+  Subtotal: $76.50
+  + Tax: $7.00
+  + Tip: $13.77
+  TOTAL: $97.27
+
+SHIVAM PATEL:
+  1 x CIDER GLAZED PORK CHOP ($29.50 each) = $29.50
+  1 x Dft 16 BluMn Belgian Wh ($7.75 each) = $7.75
+  1 x Dft 16 Sierra Pale Ale ($7.75 each) = $7.75
+  Subtotal: $45.00
+  + Tax: $4.12
+  + Tip: $8.10
+  TOTAL: $57.22
+
+Kevin Lucht:
+  1 x SEARED AHI TUNA ($36.00 each) = $36.00
+  1 x Dft 16 Sam Boston Lager ($7.75 each) = $7.75
+  Subtotal: $43.75
+  + Tax: $4.00
+  + Tip: $7.88
+  TOTAL: $55.63
+
+KEMAL AZIZ:
+  1 x TRUFFLE FRIES (LARGE) ($11.00 each) = $11.00
+  1 x TRUFFLE MAC & CHEESE (LARGE) ($11.00 each) = $11.00
+  1 x SAUTEED SPINACH (SMALL) ($8.00 each) = $8.00
+  Subtotal: $30.00
+  + Tax: $2.75
+  + Tip: $5.40
+  TOTAL: $38.14
+
+Angkun Wu:
+  1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
+  Subtotal: $32.50
+  + Tax: $2.97
+  + Tip: $5.85
+  TOTAL: $41.32
+
+Haining Pan:
+  1 x SEAFOOD ALFREDO ($29.30 each) = $29.30
+  Subtotal: $29.30
+  + Tax: $2.68
+  + Tip: $5.27
+  TOTAL: $37.25
+
+Michael Terilli:
+  1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
+  Subtotal: $32.50
+  + Tax: $2.97
+  + Tip: $5.85
+  TOTAL: $41.32

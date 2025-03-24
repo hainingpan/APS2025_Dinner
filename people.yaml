@@ -1,0 +1,44 @@
+# people.yaml
+Yueqing Chang:
+  - item: Apple of My Eye
+    quantity: 1
+Yicheng Tang:
+  - item: IRISH WHISKEY GLAZED SALMON
+    quantity: 1
+  - item: AROMATIZED & SMOKED
+    quantity: 2
+SHIVAM PATEL:
+  - item: CIDER GLAZED PORK CHOP
+    quantity: 1
+  - item: Dft 16 BluMn Belgian Wh
+    quantity: 1
+  - item: Dft 16 Sierra Pale Ale
+    quantity: 1
+Jordan Huang: {}
+Gavin Rockwood: {}
+Abay Zhakenov: {}
+Pradip Kattel: {}
+Kevin Lucht:
+  - item: SEARED AHI TUNA
+    quantity: 1
+  - item: Dft 16 Sam Boston Lager
+    quantity: 1
+Lisa Rivera: {}
+KEMAL AZIZ: 
+  - item: TRUFFLE FRIES (LARGE)
+    quantity: 1
+  - item: TRUFFLE MAC & CHEESE (LARGE) 
+    quantity: 1
+  - item: SAUTEED SPINACH (SMALL)
+    quantity: 1
+Daniel Kaplan: {}
+Angkun Wu:
+  - item: IRISH WHISKEY GLAZED SALMON
+    quantity: 1
+Pavel Volkov: {}
+Haining Pan:
+  - item: SEAFOOD ALFREDO
+    quantity: 1
+Michael Terilli:
+  - item: IRISH WHISKEY GLAZED SALMON
+    quantity: 1
