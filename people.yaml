@@ -31,7 +31,11 @@ KEMAL AZIZ:
     quantity: 1
   - item: SAUTEED SPINACH (SMALL)
     quantity: 1
-Daniel Kaplan: {}
+Daniel Kaplan:
+  - item: Tanqueray Martini Twist
+    quantity: 1
+  - item: U.S.D.A. CHOICE NEW YORK STRIP (13oz)
+    quantity: 1
 Angkun Wu:
   - item: IRISH WHISKEY GLAZED SALMON
     quantity: 1
