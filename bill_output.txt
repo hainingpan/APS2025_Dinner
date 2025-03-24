@@ -1,9 +1,9 @@
 ==================================================
-GRAND TOTAL: $302.55
+GRAND TOTAL: $366.55
 
-Tax (9.15%): $27.68
-Tip (18%): $54.46
-TOTAL WITH TAX AND TIP: $384.69 out of $970.32
+Tax (9.15%): $33.54
+Tip (18%): $65.98
+TOTAL WITH TAX AND TIP: $466.07 out of $970.32
 
 Payment breakdown:
 Yueqing Chang: $16.53 
@@ -16,7 +16,7 @@ Pradip Kattel: $0.00 not yet response
 Kevin Lucht: $55.63 
 Lisa Rivera: $0.00 not yet response
 KEMAL AZIZ: $38.14 
-Daniel Kaplan: $0.00 not yet response
+Daniel Kaplan: $81.38 
 Angkun Wu: $41.32 
 Pavel Volkov: $0.00 not yet response
 Haining Pan: $37.25 
@@ -63,9 +63,17 @@ KEMAL AZIZ:
   1 x TRUFFLE MAC & CHEESE (LARGE) ($11.00 each) = $11.00
   1 x SAUTEED SPINACH (SMALL) ($8.00 each) = $8.00
   Subtotal: $30.00
-  + Tax: $2.75
+  + Tax: $2.74
   + Tip: $5.40
   TOTAL: $38.14
+
+Daniel Kaplan:
+  1 x Tanqueray Martini Twist ($15.50 each) = $15.50
+  1 x U.S.D.A. CHOICE NEW YORK STRIP (13oz) ($48.50 each) = $48.50
+  Subtotal: $64.00
+  + Tax: $5.86
+  + Tip: $11.52
+  TOTAL: $81.38
 
 Angkun Wu:
   1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
