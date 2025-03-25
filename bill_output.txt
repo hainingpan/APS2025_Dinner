@@ -1,9 +1,9 @@
 ==================================================
-GRAND TOTAL: $366.55
+GRAND TOTAL: $424.80
 
-Tax (9.15%): $33.54
-Tip (18%): $65.98
-TOTAL WITH TAX AND TIP: $466.07 out of $970.32
+Tax (9.15%): $38.87
+Tip (18%): $76.46
+TOTAL WITH TAX AND TIP: $540.13 out of $970.32
 
 Payment breakdown:
 Yueqing Chang: $16.53 
@@ -11,10 +11,10 @@ Yicheng Tang: $97.27
 SHIVAM PATEL: $57.22 
 Jordan Huang: $0.00 not yet response
 Gavin Rockwood: $0.00 not yet response
-Abay Zhakenov: $0.00 not yet response
+Abay Zhakenov: $74.06 
 Pradip Kattel: $0.00 not yet response
 Kevin Lucht: $55.63 
-Lisa Rivera: $0.00 not yet response
+Elizaveta Trunina: $0.00 not yet response
 KEMAL AZIZ: $38.14 
 Daniel Kaplan: $81.38 
 Angkun Wu: $41.32 
@@ -50,12 +50,21 @@ SHIVAM PATEL:
   + Tip: $8.10
   TOTAL: $57.22
 
+Abay Zhakenov:
+  1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
+  1 x Dft 16 Sam Boston Lager ($7.75 each) = $7.75
+  1 x The Chocolate Bag ($18.00 each) = $18.00
+  Subtotal: $58.25
+  + Tax: $5.33
+  + Tip: $10.48
+  TOTAL: $74.06
+
 Kevin Lucht:
   1 x SEARED AHI TUNA ($36.00 each) = $36.00
   1 x Dft 16 Sam Boston Lager ($7.75 each) = $7.75
   Subtotal: $43.75
   + Tax: $4.00
-  + Tip: $7.88
+  + Tip: $7.87
   TOTAL: $55.63
 
 KEMAL AZIZ:
@@ -63,7 +72,7 @@ KEMAL AZIZ:
   1 x TRUFFLE MAC & CHEESE (LARGE) ($11.00 each) = $11.00
   1 x SAUTEED SPINACH (SMALL) ($8.00 each) = $8.00
   Subtotal: $30.00
-  + Tax: $2.74
+  + Tax: $2.75
   + Tip: $5.40
   TOTAL: $38.14
 
