@@ -1,9 +1,9 @@
 ==================================================
-GRAND TOTAL: $424.80
+GRAND TOTAL: $536.45
 
-Tax (9.15%): $38.87
-Tip (18%): $76.46
-TOTAL WITH TAX AND TIP: $540.13 out of $970.32
+Tax (9.15%): $49.09
+Tip (18%): $96.56
+TOTAL WITH TAX AND TIP: $682.10 out of $970.32
 
 Payment breakdown:
 Yueqing Chang: $16.53 
@@ -14,7 +14,7 @@ Gavin Rockwood: $0.00 not yet response
 Abay Zhakenov: $74.06 
 Pradip Kattel: $0.00 not yet response
 Kevin Lucht: $55.63 
-Elizaveta Trunina: $0.00 not yet response
+Elizaveta Trunina: $141.96 
 KEMAL AZIZ: $38.14 
 Daniel Kaplan: $81.38 
 Angkun Wu: $41.32 
@@ -67,12 +67,25 @@ Kevin Lucht:
   + Tip: $7.87
   TOTAL: $55.63
 
+Elizaveta Trunina:
+  2 x MAINE LOBSTER BISQUE Bowl ($15.00 each) = $30.00
+  1 x Lemonade ($6.00 each) = $6.00
+  1 x Dft 16 BluMn Belgian Wh ($7.75 each) = $7.75
+  3 x SHRIMP KISSES ($16.30 each) = $48.90
+  2 x KUMIAI ($3.80 each) = $7.60
+  2 x MISTY POINTS ($3.80 each) = $7.60
+  1 x IRISH POINTS ($3.80 each) = $3.80
+  Subtotal: $111.65
+  + Tax: $10.22
+  + Tip: $20.10
+  TOTAL: $141.96
+
 KEMAL AZIZ:
   1 x TRUFFLE FRIES (LARGE) ($11.00 each) = $11.00
   1 x TRUFFLE MAC & CHEESE (LARGE) ($11.00 each) = $11.00
   1 x SAUTEED SPINACH (SMALL) ($8.00 each) = $8.00
   Subtotal: $30.00
-  + Tax: $2.75
+  + Tax: $2.74
   + Tip: $5.40
   TOTAL: $38.14
 

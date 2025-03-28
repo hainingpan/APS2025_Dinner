@@ -29,7 +29,21 @@ Kevin Lucht:
     quantity: 1
   - item: Dft 16 Sam Boston Lager
     quantity: 1
-Elizaveta Trunina: {}
+Elizaveta Trunina: 
+  - item: MAINE LOBSTER BISQUE Bowl
+    quantity: 2
+  - item: Lemonade
+    quantity: 1
+  - item: Dft 16 BluMn Belgian Wh
+    quantity: 1
+  - item: SHRIMP KISSES
+    quantity: 3
+  - item: KUMIAI
+    quantity: 2
+  - item: MISTY POINTS
+    quantity: 2
+  - item: IRISH POINTS
+    quantity: 1
 KEMAL AZIZ: 
   - item: TRUFFLE FRIES (LARGE)
     quantity: 1
