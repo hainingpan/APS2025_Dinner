@@ -1,9 +1,9 @@
 ==================================================
-GRAND TOTAL: $536.45
+GRAND TOTAL: $561.25
 
-Tax (9.15%): $49.09
-Tip (18%): $96.56
-TOTAL WITH TAX AND TIP: $682.10 out of $970.32
+Tax (9.15%): $51.35
+Tip (18%): $101.02
+TOTAL WITH TAX AND TIP: $713.63 out of $970.32
 
 Payment breakdown:
 Yueqing Chang: $16.53 
@@ -18,7 +18,7 @@ Elizaveta Trunina: $141.96
 KEMAL AZIZ: $38.14 
 Daniel Kaplan: $81.38 
 Angkun Wu: $41.32 
-Pavel Volkov: $0.00 not yet response
+pavel.volkov: $31.53 
 Haining Pan: $37.25 
 Michael Terilli: $41.32 
 ==================================================
@@ -64,7 +64,7 @@ Kevin Lucht:
   1 x Dft 16 Sam Boston Lager ($7.75 each) = $7.75
   Subtotal: $43.75
   + Tax: $4.00
-  + Tip: $7.87
+  + Tip: $7.88
   TOTAL: $55.63
 
 Elizaveta Trunina:
@@ -85,7 +85,7 @@ KEMAL AZIZ:
   1 x TRUFFLE MAC & CHEESE (LARGE) ($11.00 each) = $11.00
   1 x SAUTEED SPINACH (SMALL) ($8.00 each) = $8.00
   Subtotal: $30.00
-  + Tax: $2.74
+  + Tax: $2.75
   + Tip: $5.40
   TOTAL: $38.14
 
@@ -103,6 +103,13 @@ Angkun Wu:
   + Tax: $2.97
   + Tip: $5.85
   TOTAL: $41.32
+
+pavel.volkov:
+  1 x CRAFT BEER BATTERED FISH & CHIPS ($24.80 each) = $24.80
+  Subtotal: $24.80
+  + Tax: $2.27
+  + Tip: $4.46
+  TOTAL: $31.53
 
 Haining Pan:
   1 x SEAFOOD ALFREDO ($29.30 each) = $29.30
