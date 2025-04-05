@@ -1,15 +1,15 @@
 ==================================================
-GRAND TOTAL: $561.25
+GRAND TOTAL: $593.75
 
-Tax (9.15%): $51.35
-Tip (18%): $101.02
-TOTAL WITH TAX AND TIP: $713.63 out of $970.32
+Tax (9.15%): $54.33
+Tip (18%): $106.87
+TOTAL WITH TAX AND TIP: $754.95 out of $970.32
 
 Payment breakdown:
 Yueqing Chang: $16.53 
 Yicheng Tang: $97.27 
 SHIVAM PATEL: $57.22 
-Jordan Huang: $0.00 not yet response
+Jordan Huang: $41.32 
 Gavin Rockwood: $0.00 not yet response
 Abay Zhakenov: $74.06 
 Pradip Kattel: $0.00 not yet response
@@ -49,6 +49,20 @@ SHIVAM PATEL:
   + Tax: $4.12
   + Tip: $8.10
   TOTAL: $57.22
+
+Jordan Huang:
+  1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50
+  Subtotal: $32.50
+  + Tax: $2.97
+  + Tip: $5.85
+  TOTAL: $41.32
+
+Gavin Rockwood:
+  1 x Share with Jordan ($0.00 each) = $0.00
+  Subtotal: $0.00
+  + Tax: $0.00
+  + Tip: $0.00
+  TOTAL: $0.00
 
 Abay Zhakenov:
   1 x IRISH WHISKEY GLAZED SALMON ($32.50 each) = $32.50

@@ -14,8 +14,12 @@ SHIVAM PATEL:
     quantity: 1
   - item: Dft 16 Sierra Pale Ale
     quantity: 1
-Jordan Huang: {}
-Gavin Rockwood: {}
+Jordan Huang: 
+- item: IRISH WHISKEY GLAZED SALMON
+  quantity: 1
+Gavin Rockwood:
+- item: Share with Jordan
+  quantity: 1
 Abay Zhakenov:
   - item: IRISH WHISKEY GLAZED SALMON
     quantity: 1
